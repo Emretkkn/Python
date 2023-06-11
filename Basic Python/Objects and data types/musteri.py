@@ -1,0 +1,9 @@
+name = "Emre"
+surname = "Tekin"
+Fullname = name + " " + surname
+gender1 = "Male"
+gender2 = "Female"
+identify_Number = '17885902671'
+birthday = 2001
+address = 'Buca/İzmir'
+Age = 2022 - birthday
