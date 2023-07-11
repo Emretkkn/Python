@@ -1,1 +1,1 @@
-# Python eğitimi için hazırlanmış bir projedir.
+# Python eğitimi için hazırlanmıştır.
