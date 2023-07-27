@@ -1,1 +1,1 @@
-# Python eğitimi için hazırlanmıştır.
+# Python eğitimim için yaptığım çalışmalar.
